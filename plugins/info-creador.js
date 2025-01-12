@@ -37,7 +37,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   
   ${tradutor.texto1[13]}`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR`},
+    'document': {url: `https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2[0]}`,
     'fileLength': 99999999999999,
@@ -46,7 +46,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR',
+        'mediaUrl': 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2[1],

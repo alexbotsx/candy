@@ -11,43 +11,43 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['595984303784', 'Botcito Sexi', true],
-  ['595984303784', 'Botcito Sexi 1', true],
-  ['595984303784', 'Botcito Sexi 2', true],
-  ['595984303784', 'Botcito Sexi 3', true],
-  ['595984303784', 'Botcito Sexi 4', true],
-  ['595984303784', 'Botcito Sexi 5', true],
-  ['595984303784', 'Botcito Sexi 6', false],
-  ['595984303784', 'Botcito Sexi 7', true],
-  ['595984303784', 'Botcito Sexi 8', true],
-  ['595984303784', 'Botcito Sexi 9', true],
-  ['595984303784', 'Botcito Sexi 19', true], 
-  ['595984303784', 'Botcito Sexi 11', true],
-  ['595984303784', 'Botcito Sexi 12', true], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],  
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784']
+  ['51926490894', 'Botcito Sexi', true],
+  ['51926490894', 'Botcito Sexi 1', true],
+  ['51926490894', 'Botcito Sexi 2', true],
+  ['51926490894', 'Botcito Sexi 3', true],
+  ['51926490894', 'Botcito Sexi 4', true],
+  ['51926490894', 'Botcito Sexi 5', true],
+  ['51926490894', 'Botcito Sexi 6', false],
+  ['51926490894', 'Botcito Sexi 7', true],
+  ['51926490894', 'Botcito Sexi 8', true],
+  ['51926490894', 'Botcito Sexi 9', true],
+  ['51926490894', 'Botcito Sexi 19', true], 
+  ['51926490894', 'Botcito Sexi 11', true],
+  ['51926490894', 'Botcito Sexi 12', true], 
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'], 
+  ['51926490894'],  
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'], 
+  ['51926490894'], 
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'], 
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894'],
+  ['51926490894']
 ];
 
-global.suittag = ['595984303784'];
-global.prems = ['595984303784'];
+global.suittag = ['51926490894'];
+global.prems = ['51926490894'];
 
 global.packname = 'Sticker';
 global.author = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
@@ -82,13 +82,13 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\n𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧`;
 global.gt = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
 global.mysticbot = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR';
-global.mysticbot = 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR';
+global.channel = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j';
+global.md = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j';
+global.mysticbot = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '595984303784';
+global.nomorown = '51926490894';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
