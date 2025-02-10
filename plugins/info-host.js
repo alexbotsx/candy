@@ -36,7 +36,7 @@ ${tradutor.texto1[15]}
 ${tradutor.texto1[16]}
 `.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j`},
+    'document': {url: `https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -45,7 +45,7 @@ ${tradutor.texto1[16]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j',
+        'mediaUrl': 'https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,

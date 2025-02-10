@@ -232,7 +232,7 @@ async function ytPlayVid(query) {
 // ❏ 👀 *𝚅𝙸𝚂𝚃𝙰𝚂:* ${viewH}
 // ❏ 📇 *𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:* ${description}
 // ❏ 🔗 *𝙻𝙸𝙽𝙺:* ${urll}`.trim()
-// let buttonMessage = { "document": { url: "https://wa.me/51926490894" }, "fileName": '❏ 🌿 ʀᴇᴘʀᴏᴅᴜᴄᴛᴏʀ ᴅᴇ ʏᴏᴜᴛᴜʙᴇ', "mimetype": 'application/vnd.ms-excel', "caption": texto1, "fileLength": '99999999999999', "mentions": [m.sender], "footer": wm, "buttons": buttons, "headerType": 4, contextInfo: { "mentionedJid": [m.sender], "externalAdReply": { "showAdAttribution": true, "title": `${title}`, "mediaType": 2, "previewType": "VIDEO", "thumbnail": await (await fetch(thumbnail)).buffer(), "mediaUrl": `${urll}`, "sourceUrl": `https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j` }}}
+// let buttonMessage = { "document": { url: "https://wa.me/+56974785471" }, "fileName": '❏ 🌿 ʀᴇᴘʀᴏᴅᴜᴄᴛᴏʀ ᴅᴇ ʏᴏᴜᴛᴜʙᴇ', "mimetype": 'application/vnd.ms-excel', "caption": texto1, "fileLength": '99999999999999', "mentions": [m.sender], "footer": wm, "buttons": buttons, "headerType": 4, contextInfo: { "mentionedJid": [m.sender], "externalAdReply": { "showAdAttribution": true, "title": `${title}`, "mediaType": 2, "previewType": "VIDEO", "thumbnail": await (await fetch(thumbnail)).buffer(), "mediaUrl": `${urll}`, "sourceUrl": `https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b` }}}
 // conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 // } catch {
 // try {

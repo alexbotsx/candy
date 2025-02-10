@@ -36,8 +36,8 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 > *⌜ ＭＥＮＵ | ＣＯＭＰＬＥＴＯ ⌟*
 
 *╭━〔 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 〕━╮*
-┃➔ ⭐ *Owner:* Alex
-┃➔ 📱 *Contacto*: wa.me/51926490894
+┃➔ ⭐ *Owner:* Candy Ventas
+┃➔ 📱 *Contacto*: wa.me/+56974785471
 ┃➔ 💌 *Pruebas:* 
 ╰━━━━━━━━━━━━━━╯
 

@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['51926490894', 'Botcito Sexi', true],
-  ['51926490894', 'Botcito Sexi 1', true],
-  ['51926490894', 'Botcito Sexi 2', true],
-  ['51926490894', 'Botcito Sexi 3', true],
-  ['51926490894', 'Botcito Sexi 4', true],
-  ['51926490894', 'Botcito Sexi 5', true],
-  ['51926490894', 'Botcito Sexi 6', false],
-  ['51926490894', 'Botcito Sexi 7', true],
-  ['51926490894', 'Botcito Sexi 8', true],
-  ['51926490894', 'Botcito Sexi 9', true],
-  ['51926490894', 'Botcito Sexi 19', true], 
-  ['51926490894', 'Botcito Sexi 11', true],
-  ['51926490894', 'Botcito Sexi 12', true], 
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'], 
-  ['51926490894'],  
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'], 
-  ['51926490894'], 
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'], 
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894'],
-  ['51926490894']
+  ['+56974785471', 'Botcito Sexi', true],
+  ['+56974785471', 'Botcito Sexi 1', true],
+  ['+56974785471', 'Botcito Sexi 2', true],
+  ['+56974785471', 'Botcito Sexi 3', true],
+  ['+56974785471', 'Botcito Sexi 4', true],
+  ['+56974785471', 'Botcito Sexi 5', true],
+  ['+56974785471', 'Botcito Sexi 6', false],
+  ['+56974785471', 'Botcito Sexi 7', true],
+  ['+56974785471', 'Botcito Sexi 8', true],
+  ['+56974785471', 'Botcito Sexi 9', true],
+  ['+56974785471', 'Botcito Sexi 19', true], 
+  ['+56974785471', 'Botcito Sexi 11', true],
+  ['+56974785471', 'Botcito Sexi 12', true], 
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'], 
+  ['+56974785471'],  
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'], 
+  ['+56974785471'], 
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'], 
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471'],
+  ['+56974785471']
 ];
 
-global.suittag = ['51926490894'];
-global.prems = ['51926490894'];
+global.suittag = ['+56974785471'];
+global.prems = ['+56974785471'];
 
 global.packname = 'Sticker';
-global.author = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.wm = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.titulowm = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.titulowm2 = `𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧`
-global.igfg = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
+global.author = '𝐁𝐚𝐛𝐲𝐁𝐨𝐭';
+global.wm = '𝐁𝐚𝐛𝐲𝐁𝐨𝐭';
+global.titulowm = '𝐁𝐚𝐛𝐲𝐁𝐨𝐭';
+global.titulowm2 = `𝐁𝐚𝐛𝐲𝐁𝐨𝐭`
+global.igfg = '𝐁𝐚𝐛𝐲𝐁𝐨𝐭';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧`;
-global.gt = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.mysticbot = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.channel = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j';
-global.md = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j';
-global.mysticbot = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j';
+global.wm2 = `${dia} ${fecha}\n𝐁𝐚𝐛𝐲𝐁𝐨𝐭`;
+global.gt = '𝐁𝐚𝐛𝐲𝐁𝐨𝐭';
+global.mysticbot = '𝐁𝐚𝐛𝐲𝐁𝐨𝐭';
+global.channel = 'https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b';
+global.md = 'https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b';
+global.mysticbot = 'https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '51926490894';
+global.nomorown = '+56974785471';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

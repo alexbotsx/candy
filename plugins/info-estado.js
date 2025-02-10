@@ -31,8 +31,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧
-  ${tradutor.texto1[2]} +51926490894
+  ${tradutor.texto1[1]} 𝐁𝐚𝐛𝐲𝐁𝐨𝐭
+  ${tradutor.texto1[2]} +56974785471
   ${tradutor.texto1[3]} https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
 
   ${tradutor.texto1[4]} ${rtime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j` },
+    document: { url: `https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j",
+        mediaUrl: "https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
+        title: "𝐁𝐚𝐛𝐲𝐁𝐨𝐭",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j",
+        sourceUrl: "https://chat.whatsapp.com/BXV2D6lbzIJ0QeY2FEhA4b",
       },
     },
     caption: info,
